@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Eddy Ma</authors>
+    <owners>Eddy Ma</owners>
+	<projectUrl>https://github.com/mayuanyang/NMolecule.Security</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An integrator for hypermedia web api</description>
+    <copyright>Copyright 2016</copyright>
+    <tags>Hypermedia Webapi</tags>
+  </metadata>
+</package>
